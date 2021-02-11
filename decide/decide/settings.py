@@ -68,7 +68,7 @@ MODULES = [
     'voting',
 ]
 
-BASEURL = 'https://examen1730jgc.herokuapp.com/'
+BASEURL = 'https://examen1730jgc.herokuapp.com'
 
 APIS = {}
 
